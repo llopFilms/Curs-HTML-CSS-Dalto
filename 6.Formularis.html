@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formularis</title>
+</head>
+<body>
+  <form action="">
+    <label for="nom">Nom * </label><input type="text" id="nom" name="nom" placeholder="Introdueix el teu nom" required>
+    <br><br>
+    <label for="email">Email * </label><input type="email" id="email" name="email" placeholder="Introdueix el teu email"></label>
+    <br><br>
+    <label for="contrasenya">Contrasenya * </label><input type="password" id="contrasenya" name="contrasenya" placeholder="Introdueix la teva contrasenya"></label>
+    <br><br>
+    <input type="checkbox" id="acceptar-termes" name="acceptar-termes"><label for="acceptar-termes">Acceptar termes</label>
+    <br><br>
+    <span>Som amics?</span>
+    <label for="si-som-amics">Sí</label><input type="radio" id="si-som-amics" name="som-amics" value="si"/>
+    <label for="no-som-amics">No</label><input type="radio" id="no-som-amics" name="som-amics" value="no"/>
+    <br><br>
+    <label for="data">Quin dia ho envies? </label><input type="date" id="data" name="data">
+    <br><br>
+    <label for="enviar-arxiu">Enviar un arxiu </label><input type="file" name="enviar-arxiu" id='enviar-arxiu'>
+    <br><br>
+    <input type="submit" value="Enviar">
+  </form>
+</body>
+</html>
