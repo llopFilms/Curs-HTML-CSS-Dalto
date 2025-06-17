@@ -7,4 +7,5 @@
     - Paràgrafs
     - Llistes
     - Enllaços
-    - 
+    - Rutes
+    - Formularis
