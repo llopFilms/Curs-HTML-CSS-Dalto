@@ -1,6 +1,6 @@
 # Curs de HTML + CSS de Dalto
 - Pràctiques del curs de HTML + CSS de Dalto
-- Temari HTML:
+- HTML BÀSIC
     - Intro
     - Etiquetes
     - Capçaleres
@@ -9,3 +9,12 @@
     - Enllaços
     - Rutes
     - Formularis
+- CSS BÀSIC
+- HTML AVANÇAT
+- CSS INTERMIG
+- CSS FLEXBOX
+- DISSENY RESPONSIU
+- CSS GRID
+- ANIMACIONS
+- SECCIÓ AVANÇADA
+- PROJECTES FINALS
